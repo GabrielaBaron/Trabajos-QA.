@@ -2,8 +2,7 @@
 Cursos Certificados. 
 
 > [!NOTE]
-> - [Portal eventos CUN]
->   ```bash
+> - [Cursos Certificados.]
 > - [Directorio de archivos adjuntos](Cursos-certificados).
 
 
