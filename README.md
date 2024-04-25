@@ -8,8 +8,8 @@ Cursos Certificados.
 Solicitud de Afiliación
 
 > [!NOTE]
-> - [Solicitud de Afiliación.]
-> - [Directorio de archivos adjuntos](Solicitud-de-afiliacion).
+> - [Solicitud de Afiliación ARL practicasntes.]
+> - [Directorio de archivos adjuntos](Solicitud-de-afiliacion-ARL-Practicantes).
 
 
 
