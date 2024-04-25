@@ -5,7 +5,6 @@ Cursos Certificados.
 > - [Cursos Certificados.]
 > - [Directorio de archivos adjuntos](Cursos-certificados).
 
-
 Solicitud de Afiliación
 
 > [!NOTE]
