@@ -11,10 +11,8 @@ Solicitud de Afiliación
 > - [Solicitud de Afiliación ARL practicantes.]
 > - [Directorio de archivos adjuntos](SOLICITUD-DE-AFILIACIÓN-ARL-PRACTICANTES).
 
+PORTAL ARL SUPER ADMINISTRATIVOS.
 
-
-
-
-
-
-
+> [!NOTE]
+> - [PORTAL ARL SUPER ADMINISTRATIVOS.]
+> - [Directorio de archivos adjuntos](PORTAL-ARL-SUPER-ADMINISTRATIVOS).
