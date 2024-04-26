@@ -9,7 +9,7 @@ Solicitud de Afiliación
 
 > [!NOTE]
 > - [Solicitud de Afiliación ARL practicantes.]
-> - [Directorio de archivos adjuntos](Solicitud-de-afiliacion-ARL-Practicantes).
+> - [Directorio de archivos adjuntos](SOLICITUD-DE-AFILIACIÓN-ARL-PRACTICANTES).
 
 
 
