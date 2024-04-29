@@ -1,4 +1,17 @@
 # Trabajos-QA.
+
+A documentos en blanco
+
+> [!NOTE]
+> - [A documentos en blanco]
+> - [Directorio de archivos adjuntos](A-Documentos-en-blanco).
+
+Todos los Bugs
+
+> [!NOTE]
+> - [Todos los Bugs]
+> - [Directorio de archivos adjuntos](Todos-los-bugs).
+
 Cursos Certificados. 
 
 > [!NOTE]
